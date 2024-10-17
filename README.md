@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Missipsa GHERNAOUT</h1>
 <h3 align="center">A passionate software developer from Algeria</h3>
 
