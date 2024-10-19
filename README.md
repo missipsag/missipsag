@@ -3,10 +3,10 @@
 
 - 🌱 I’m currently learning **Web development by The web developer bootcamp course on Udemy**
 
-- 📫 How to reach me **ghernaoutmissipsa.pro@gmail.com** , 
+- 📫 How to reach me **ghernaoutmissipsa.pro@gmail.com** 
 
 
-<a href="https://linkedin.com/in/ghernaout missipsa" target="blank">LinkedIn : **missipsa ghernaout** </a>
+- 📫 LinkedIn : <a href="https://linkedin.com/in/ghernaout missipsa" target="blank"> **missipsa ghernaout** </a>
 
 
 <h3 align="left">Languages and Tools:</h3>
