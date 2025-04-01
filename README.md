@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Missipsa GHERNAOUT</h1>
 <h3 align="center">A passionate software developer</h3>
 
-- 🌱 I’m currently learning **Web development by The web developer bootcamp course on Udemy**
 
 -  Mail : **ghernaoutmissipsa.pro@gmail.com**
 -  LinkedIn : <a href="https://linkedin.com/in/ghernaout missipsa" target="blank"> **missipsa ghernaout** </a> 
